@@ -1,5 +1,5 @@
 {
-  "name": "carepulse",
+  "name": "Curepulse",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -22,10 +22,10 @@
     "@sentry/nextjs": "^8.9.2",
     "@tanstack/react-table": "^8.17.0",
     "appwrite": "^15.0.0",
-    "carepulse": "file:",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
     "cmdk": "^1.0.0",
+    "Curepulse": "file:",
     "eslint-config-prettier": "^9.1.0",
     "eslint-config-standard": "^17.1.0",
     "eslint-plugin-tailwindcss": "^3.15.1",

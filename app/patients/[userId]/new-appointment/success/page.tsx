@@ -21,13 +21,16 @@ const RequestSuccess = async ({
     <div className=" flex h-screen max-h-screen px-[5%]">
       <div className="success-img">
         <Link href="/">
-          <Image
-            src="/assets/icons/logo-full.svg"
-            height={1000}
-            width={1000}
-            alt="logo"
-            className="h-10 w-fit"
-          />
+          <div className=" mb-6  flex">
+            <Image
+              src="/assets/icons/logo-full.png"
+              height={1000}
+              width={1000}
+              alt="patient"
+              className="mr-4 h-10 w-fit"
+            />
+            <p className=" h-10 w-fit text-3xl font-extrabold">CurePulse</p>
+          </div>
         </Link>
 
         <section className="flex flex-col items-center">
